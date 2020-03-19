@@ -1,0 +1,17 @@
+[posts]
+other = "Статьи"
+
+[about]
+other = "Обо мне"
+
+[writtenBy]
+other = " "
+
+[on]
+other = " "
+
+[generator]
+other = "Сделано с <a href='https://gohugo.io'>Hugo</a>."
+
+[publishdate]
+other = "{{ .PublishDate.Day }} {{ index $.Site.Data.months_ru (printf \"%d\" .PublishDate.Month) }} {{ .PublishDate.Year }}"

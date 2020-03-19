@@ -1,0 +1,7 @@
+baseURL = "https://kirilldenisov.github.io/"
+languageCode = "ru"
+defaultContentLanguage = "ru"
+title = "Кирюша Денисов"
+theme = "tale"
+[Author]
+    name = "Кирюша"
