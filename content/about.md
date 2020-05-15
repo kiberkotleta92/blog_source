@@ -45,6 +45,7 @@ draft: false
 - [Rosalind](http://rosalind.info/users/kirilldenisov/)
 
 ## Сертификаты
+- [Школа будущих CTO](/ycloud_school.pdf)
 - Stepic
     - [Основы статистики](https://stepik.org/cert/219747)
     - [Анализ данных в R](https://stepik.org/cert/314249)
